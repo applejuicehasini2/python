@@ -1,0 +1,5 @@
+print("welcome to the world of coding ")
+print("my name is srija hasini")
+print(7)
+print("fun fact python is a snake ",7)
+print("peppa pig is preppy pig",end="*")

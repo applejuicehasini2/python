@@ -1,0 +1,14 @@
+name = "cody"
+age = 9
+is_student = True
+weight = 3.9
+print(name, "type of name: ", type(name))
+print(age, "type of age: ", type(age))
+print(is_student,  "type of is_student: ", type(is_student))
+print(weight, "type of weight: ", type(weight))
+#type_casting
+print("after typcasting: /n")
+age = str(age)
+print("type of age : ", type(age))
+weight = int(weight)
+print("type of weight: ", type(weight))
